@@ -9,7 +9,8 @@ Sample 은 아래 2곳 만을 참조 해서 사용하자
 
 ## 1. spring-boot-sample
 
-Maven 기반을 gradle 구동이 가능 하게 설정 원문을 참조 하고 싶으면 [Spring Boot Sample](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) 확인
+Maven 기반을 Gradle 로 변경  
+Maven 기반의 원천은 [Spring Boot Sample](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples) 확인 하자
 
 git 사용중 windows 파일명 길어서 git 오류 발생시 처리
 
