@@ -29,7 +29,7 @@ ${PROJECT_HOME}/src/main/resources 하위 폴더
 
 ## 2. security
 
-[thymeleafexamples-springsecurity](https://github.com/thymeleaf/thymeleafexamples-springsecurity) 예제
+[thymeleafexamples-springsecurity 예제](https://github.com/thymeleaf/thymeleafexamples-springsecurity)
 
 ### sec:
 
@@ -38,6 +38,8 @@ sec tag 를 이용해서 권한 관리
 ### JdbcUserDetailsManager
 
 DB 연동 해서 로그인
+
+### 암호화 해보기
 
 ### 참조
 - [Security 번역자료](https://github.com/ssosso/Docs-Reference-Translation/tree/master/Spring-Security-Reference)
