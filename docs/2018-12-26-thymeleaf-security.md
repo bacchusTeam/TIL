@@ -24,8 +24,8 @@ ${PROJECT_HOME}/src/main/resources 하위 폴더
 
 ### th:
 
-[thymeleaf (server-side template engine) 사용법 정리 - 1](http://cyberx.tistory.com/132)
-[thymeleaf (server-side template engine) 사용법 정리 - 2](http://cyberx.tistory.com/160)
+- [thymeleaf (server-side template engine) 사용법 정리 - 1](http://cyberx.tistory.com/132)
+- [thymeleaf (server-side template engine) 사용법 정리 - 2](http://cyberx.tistory.com/160)
 
 ## 2. security
 
