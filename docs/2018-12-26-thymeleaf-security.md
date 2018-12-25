@@ -7,7 +7,7 @@ tag: Spring, Boot, 2.0
 ---
 # 2018-12-26
 
-## thymeleaf
+## 1. thymeleaf
 
 ### webjars
 
@@ -27,7 +27,7 @@ ${PROJECT_HOME}/src/main/resources 하위 폴더
 [thymeleaf (server-side template engine) 사용법 정리 - 1](http://cyberx.tistory.com/132)
 [thymeleaf (server-side template engine) 사용법 정리 - 2](http://cyberx.tistory.com/160)
 
-## security
+## 2. security
 
 [thymeleafexamples-springsecurity](https://github.com/thymeleaf/thymeleafexamples-springsecurity) 예제
 
