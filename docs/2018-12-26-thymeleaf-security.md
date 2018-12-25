@@ -19,7 +19,7 @@ tag: Spring, Boot, 2.0
 JdbcUserDetailsManager 사용 하면 쉽게 할수 있다
 
 ### 참조
-- [Security](https://github.com/ssosso/Docs-Reference-Translation/tree/master/Spring-Security-Reference)
+- [Security 번역자료](https://github.com/ssosso/Docs-Reference-Translation/tree/master/Spring-Security-Reference)
 - [Security 다양한 Sample](https://www.programcreek.com/java-api-examples/index.php?api=org.springframework.security.provisioning.JdbcUserDetailsManager)
 - [Security 5.0 변경점](https://java.ihoney.pe.kr/tag/Security)
 - [JdbcUserDetailsManager](https://stackoverflow.com/questions/16319037/using-jdbcuserdetailsmanager-vs-own-userdetailsservice)
