@@ -5,18 +5,39 @@ date: 2018-12-25 08:48:00
 categories: TIL
 tag: Spring, Boot, 2.0
 ---
-
 # 2018-12-26
 
 ## thymeleaf
 
 ### webjars
 
+gradle 이용해서 jquery, bootstrap 버전 관리 하자  
+현제 있는 버전중에 최신 버전설정을 해서 사용 하자
+
 ### 정적 자원 위치 4곳
+
+${PROJECT_HOME}/src/main/resources 하위 폴더
+- public/public.html
+- META-INF/resources/meta.html
+- resources/resoures.html
+- static/static.html
+
+### th:
+
+[thymeleaf (server-side template engine) 사용법 정리 - 1](http://cyberx.tistory.com/132)
+[thymeleaf (server-side template engine) 사용법 정리 - 2](http://cyberx.tistory.com/160)
 
 ## security
 
-JdbcUserDetailsManager 사용 하면 쉽게 할수 있다
+[thymeleafexamples-springsecurity](https://github.com/thymeleaf/thymeleafexamples-springsecurity) 예제
+
+### sec:
+
+sec tag 를 이용해서 권한 관리
+
+### JdbcUserDetailsManager
+
+DB 연동 해서 로그인
 
 ### 참조
 - [Security 번역자료](https://github.com/ssosso/Docs-Reference-Translation/tree/master/Spring-Security-Reference)
